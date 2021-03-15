@@ -1,0 +1,5 @@
+package dev.jimmys.entities.creatures;
+
+public class Creature {
+
+}

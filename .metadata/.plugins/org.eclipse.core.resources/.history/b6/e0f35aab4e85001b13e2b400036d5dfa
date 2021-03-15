@@ -1,0 +1,5 @@
+package dev.jimmys.states;
+
+public class GameState {
+
+}

@@ -1,0 +1,5 @@
+package dev.jimmys.input;
+
+public class KeyManager {
+
+}

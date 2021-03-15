@@ -1,0 +1,10 @@
+package dev.jimmys;
+
+import dev.jimmys.display.Display;
+
+public class launcher {
+	public static void main(String [] args) {
+		new Display("Jimmys!", 300, 300);
+	}
+
+}
